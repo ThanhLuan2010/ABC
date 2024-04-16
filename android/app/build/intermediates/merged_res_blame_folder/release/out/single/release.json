@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_card.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_card.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_homebanner1.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_homebanner1.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_message.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_message.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_tick.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_tick.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_eyeopen.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_eyeopen.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_back.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_back.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_sunlife.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_sunlife.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_bank.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_bank.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.vina.farm.app-main-41:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_vay.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_vay.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_bank.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_bank.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_chuyentien.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_chuyentien.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_more.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_more.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_down.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_down.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_switch.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_switch.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_tab_qr.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_tab_qr.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_bell.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_bell.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_tabhome.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_tabhome.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_bank.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_bank.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_pig.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_pig.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_message.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_message.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_eyeopen.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_eyeopen.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_thanhtoan.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_thanhtoan.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_thanhtoan.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_thanhtoan.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_share.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_share.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_bell.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_bell.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_homebanner2.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_homebanner2.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_thanhtoan.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_thanhtoan.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_tab_qr.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_tab_qr.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_tab_qr.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_tab_qr.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_familybank.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_familybank.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_pig.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_pig.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_tabhome.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_tabhome.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_vay.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_vay.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-hdpi_bootsplash_logo.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-hdpi/bootsplash_logo.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_share1.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_share1.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable_background_splash.xml.flat",
+        "source": "com.vina.farm.app-main-41:/drawable/background_splash.xml"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_arrow_up.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_arrow_up.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_more.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_more.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_eyeopen.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_eyeopen.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_sunlife.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_sunlife.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_vay.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_vay.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_clock.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_clock.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_eyeclose.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_eyeclose.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_applepay.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_applepay.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_homebanner3.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_homebanner3.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_more.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_more.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_arrow_down.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_arrow_down.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_arrowright.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_arrowright.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_pig.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_pig.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_card.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_card.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_sunlife.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_sunlife.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_arrowright.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_arrowright.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_eyeclose.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_eyeclose.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_chuyentien.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_chuyentien.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_card.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_card.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_filter.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_filter.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xhdpi_src_assets_images_ic_eyeclose.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xhdpi/src_assets_images_ic_eyeclose.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_message.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_message.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_applepay.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_applepay.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_tabhome.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_tabhome.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_dots.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_dots.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_src_assets_images_ic_familybank.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/src_assets_images_ic_familybank.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/layout_launch_screen.xml.flat",
+        "source": "com.vina.farm.app-main-41:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_applepay.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_applepay.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_chuyentien.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_chuyentien.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.vina.farm.app-main-41:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.vina.farm.app-merged_res-40:/drawable-xxhdpi_src_assets_images_ic_arrowright.png.flat",
+        "source": "com.vina.farm.app-react-35:/drawable-xxhdpi/src_assets_images_ic_arrowright.png"
+    }
+]

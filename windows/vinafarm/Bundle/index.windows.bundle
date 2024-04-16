@@ -1,0 +1,9 @@
+/**
+ * 
+ * Be sure to generate this file using the CLI:
+ *
+ * npx react-native bundle --platform windows --entry-file index.js 
+ *   --bundle-output windows\vinafarm\Bundle\index.windows.bundle
+ *   --assets-dest windows\vinafarm\Bundle
+ *
+ */

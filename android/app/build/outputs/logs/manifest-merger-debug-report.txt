@@ -1,0 +1,1132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/39e3d5c717cec2e2194a3ec6983938a6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/ef8f4c8924324b77413c3bc3dc35ea6f/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/e661f9ddc88d7fc10a4f7521c815e56d/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-vector-icons] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-config] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:invertase_react-native-apple-authentication] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@invertase/react-native-apple-authentication/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:react-native-async-storage_async-storage] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-clipboard_clipboard] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_art] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/art/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_netinfo] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-firebase_auth] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_database] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-32:12
+MERGED from [:react-native-google-signin_google-signin] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:appcenter] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/appcenter/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:appcenter-analytics] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/appcenter-analytics/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:appcenter-crashes] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/appcenter-crashes/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:curved-bottom-navigation-bar] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/curved-bottom-navigation-bar/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:lottie-react-native] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-code-push] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-curved-bottom-bar] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-curved-bottom-bar/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-device-info] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fast-image] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-33:12
+MERGED from [:react-native-linear-gradient] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-push-notification] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-splash-screen] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-video] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-video/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [com.facebook.react:react-native:0.70.0] /Users/nguyenluan/.gradle/caches/transforms-3/cd4599091403be9ddb2dcdfa1422894d/transformed/jetified-react-native-0.70.0-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:5.1.1] /Users/nguyenluan/.gradle/caches/transforms-3/0f15b5ffd94ff124c110f31205fa2531/transformed/jetified-lottie-5.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/nguyenluan/.gradle/caches/transforms-3/e7efdbf4238da1edc4c81a5e18cf6a13/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/580095099fc7035f47baa15437a0b4aa/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.adityaxjha:Android-ScalableVideoView:10e7b4da8b] /Users/nguyenluan/.gradle/caches/transforms-3/aab7ac18e0ef74b66c772090bc2eed04/transformed/jetified-Android-ScalableVideoView-10e7b4da8b/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/nguyenluan/.gradle/caches/transforms-3/1933b7022624eb0864540b38f21df36f/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/fb5d07295c0e2d788d44c43d8119d5d6/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r250230] /Users/nguyenluan/.gradle/caches/transforms-3/294672f13995ff86ef9f557ba039fbc0/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-reanimated/android/build/.transforms/b9ddd3b55f66633c7298e7f8b3aa2a66/transformed/jetified-react-native-reanimated-70-jsc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/00e38e41b40c149633441261d8438851/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/66636b8c906ba7f4e3b8f9557bc791d8/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/d3c2dedcbc3845e00af21c92488ede41/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/850796eda019cd9e139420c1363d9956/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/nguyenluan/.gradle/caches/transforms-3/9e420a68ba51ecfb3a174269575c9532/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/0f0c3316752fca1784bdae844c1cef7b/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/004aa149dd61c643fd45efc9e650849f/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/2a3743c37fef2eebcea479414b158efd/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/d8d71ce2981ea5dbbaf518afdb797b8c/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/28cbb9056ee833fee4c49c065e7c4614/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/nguyenluan/.gradle/caches/transforms-3/0487d9e2f812d35585588eba4d6c89de/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/64c81814da8787530944b653f69f6637/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/797828d5879c022adf2b3b5ad150bdc9/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/316165d75170bb2c782c32bbbb0bc62b/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/8b57f8d4dcc7c410c81c9e75f045ebc1/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/ae43c78f3ddccd2dfdf65b8379b6e931/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/nguyenluan/.gradle/caches/transforms-3/9a86e9de09175bd84b207ff9294d03f3/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/f9f22722f53f2e14c601cf7a4d2ae81b/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/4a217aad8c7aec75a6a3fa553d08fdb6/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/9e307d4642ca6464578e5e402580768f/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/16e6ebc9a0a35e92424abbad9c8fd4ec/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/nguyenluan/.gradle/caches/transforms-3/450b48f83619049387d9881d9d2904f3/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/2c68a2c78a3cb8a6885ba282b4d0d11e/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/89617daf498aa542db0ab12e369ef623/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/1277b7be7e320424768e154dde44bf26/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/6decb84b45751d22c40722cb48b0398a/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/2857ce34c3c2f1e27b1a930d977f3411/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/9f081f98b59daed9aa0007121529f97c/transformed/jetified-recaptcha-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/55d228e96d167572901498bac1d96814/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/00b65bb2652eb7ff323c4fab71d9922e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/a2ee2e928c448857063645094173edb1/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/5adf70700d7794246c8b4707855f8f9f/transformed/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/191f848bf45b1009875be339854f69bd/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/27cd6e4bd157419c3fa634810e55f2e5/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/nguyenluan/.gradle/caches/transforms-3/22c902b7237f69801a42a15ed2710928/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/55b55c39cad2371780fec6579975d2a3/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/4aa6df68c3053babe6677c4a9dabf8d3/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/b1ebe17b875430c71775c18feb754897/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.play:integrity:1.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/dc7ffe45b505e742b3148e5e35dd16ac/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/82bcd4701f8b30457751f1707d8f76c9/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/c8260579f43c88d427ab0aa40b32fd29/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/nguyenluan/.gradle/caches/transforms-3/f79a7fd01c38cf1b1279cc1c91872b9c/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/nguyenluan/.gradle/caches/transforms-3/1e17d7447656afc859b7c457b36baf6a/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/65f489f39be9f30f84f26d09d4dd1de9/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/fa62eafa06c3cfb9bf313bfb8d6b1089/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nguyenluan/.gradle/caches/transforms-3/ecb9cd71442b56c5463c5d4041765035/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/nguyenluan/.gradle/caches/transforms-3/c7a98318e65eb8418beac10d5e1c23ca/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/a461f40d7a4bce840cfd79bc0175d75b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/3b1c41758a23ca5d18c86085aae5b54a/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/1b11b703135df691c30af53b1c2c7755/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/7129f80fc139d8fd370f65b513c12261/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/f4dbfa1b4a4ac398da214cc220b0169a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/4eabf5a85ff9631695b447772185134d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/0aa007f4ca42e40be100b3afd713177f/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/5e3446a4d6129ce58317da36e9a85ace/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/00c6828ff8af2a2fa42a95ceadbda35e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/41701a0f49f13a5aa55e569e8bab3dc0/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/f20fac474cc54cad699c4a0cd29e97dc/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/nguyenluan/.gradle/caches/transforms-3/2f961359fbc8d12dd9d3fdecabef46f3/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/d94c89fe0efe5eaca620ec7375201738/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nguyenluan/.gradle/caches/transforms-3/cada453f4ad21445c6e16d5f9be7fe16/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/3d5c50d5462f76db56bed0bacaed0f5a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/nguyenluan/.gradle/caches/transforms-3/b1ee6b80bda7f5cf8c3e3092c2a22281/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/690cb1b77c69b4f5273c06b217dc732c/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/b91347abd270fa92bb282d04c1f192d4/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/ef87c97f76bf4ec3620bde62cd267062/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/6adf070b6b5746f3a795ded1369a846a/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nguyenluan/.gradle/caches/transforms-3/3610d873e455e2c85d9429322dbccb07/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/6cfd0230ec91b8e69931f55d2063d91b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/53199e6a7d09fed692a6590ac01adbd0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/7ed2453f58d4cc698b91326877443e62/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/b37ff8c0b63dcbf0041ede354344c68e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nguyenluan/.gradle/caches/transforms-3/481bb5396ce435502bd5c3a7c571f50f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/b14cf662a7bb0b9e7d577658cd882449/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/c2e340a9905bcb62127a1ba631499314/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/32d394bccc5de7abed4ea35f0f95365e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/8ebba6892eff41959432c6a141c3a0ef/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/8df146438582465706a7b287dc9217ee/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/d22a960c5995906ed300a5eac106d3d5/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/a615a6957e7fe9b55bfa4cfc6a67050c/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/1a22b47b1f1cb36191a4c60cd14a1027/transformed/jetified-appcenter-react-native-4.4.5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.microsoft.appcenter:appcenter-analytics:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/01e3133dd80948f05c9ad7f80f6f1192/transformed/jetified-appcenter-analytics-4.4.5/AndroidManifest.xml:6:1-13:12
+MERGED from [com.microsoft.appcenter:appcenter-crashes:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/779fbba20a301194be3351a86370ea75/transformed/jetified-appcenter-crashes-4.4.5/AndroidManifest.xml:6:1-13:12
+MERGED from [com.microsoft.appcenter:appcenter:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/61dc333c6fbcdc2cff9a8d9f89ee6de8/transformed/jetified-appcenter-4.4.5/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/615b968fb245c5b7f9f7ca9511a721e5/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:2:1-52:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/8689fb1e9dd286e390118494e15a4110/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/2551000e5857a77affb5421e585bbb06/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:2:3-26
+		INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:2:3-26
+		INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/39e3d5c717cec2e2194a3ec6983938a6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/39e3d5c717cec2e2194a3ec6983938a6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_auth] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_auth] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_database] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_database] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:lottie-react-native] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:lottie-react-native] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-code-push] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-code-push] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/191f848bf45b1009875be339854f69bd/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/191f848bf45b1009875be339854f69bd/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/c8260579f43c88d427ab0aa40b32fd29/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/c8260579f43c88d427ab0aa40b32fd29/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:8:5-67
+MERGED from [com.microsoft.appcenter:appcenter:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/61dc333c6fbcdc2cff9a8d9f89ee6de8/transformed/jetified-appcenter-4.4.5/AndroidManifest.xml:13:5-67
+MERGED from [com.microsoft.appcenter:appcenter:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/61dc333c6fbcdc2cff9a8d9f89ee6de8/transformed/jetified-appcenter-4.4.5/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:6:5-84
+	android:required
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:6:58-82
+	android:name
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:6:19-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:7:5-90
+	android:required
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:7:64-88
+	android:name
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:7:19-63
+application
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:9:5-37:19
+MERGED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:9:5-37:19
+MERGED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:9:5-37:19
+MERGED from [:react-native-community_datetimepicker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-43:19
+MERGED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-code-push] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-13:19
+MERGED from [:react-native-code-push] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-13:19
+MERGED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-webview] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-webview] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.70.0] /Users/nguyenluan/.gradle/caches/transforms-3/cd4599091403be9ddb2dcdfa1422894d/transformed/jetified-react-native-0.70.0-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.70.0] /Users/nguyenluan/.gradle/caches/transforms-3/cd4599091403be9ddb2dcdfa1422894d/transformed/jetified-react-native-0.70.0-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:5.1.1] /Users/nguyenluan/.gradle/caches/transforms-3/0f15b5ffd94ff124c110f31205fa2531/transformed/jetified-lottie-5.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:5.1.1] /Users/nguyenluan/.gradle/caches/transforms-3/0f15b5ffd94ff124c110f31205fa2531/transformed/jetified-lottie-5.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/580095099fc7035f47baa15437a0b4aa/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/580095099fc7035f47baa15437a0b4aa/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/nguyenluan/.gradle/caches/transforms-3/0487d9e2f812d35585588eba4d6c89de/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/nguyenluan/.gradle/caches/transforms-3/0487d9e2f812d35585588eba4d6c89de/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/16e6ebc9a0a35e92424abbad9c8fd4ec/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/16e6ebc9a0a35e92424abbad9c8fd4ec/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/nguyenluan/.gradle/caches/transforms-3/450b48f83619049387d9881d9d2904f3/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/nguyenluan/.gradle/caches/transforms-3/450b48f83619049387d9881d9d2904f3/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/2c68a2c78a3cb8a6885ba282b4d0d11e/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/2c68a2c78a3cb8a6885ba282b4d0d11e/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/89617daf498aa542db0ab12e369ef623/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/89617daf498aa542db0ab12e369ef623/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/2857ce34c3c2f1e27b1a930d977f3411/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/2857ce34c3c2f1e27b1a930d977f3411/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.recaptcha:recaptcha:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/9f081f98b59daed9aa0007121529f97c/transformed/jetified-recaptcha-18.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.recaptcha:recaptcha:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/9f081f98b59daed9aa0007121529f97c/transformed/jetified-recaptcha-18.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/5adf70700d7794246c8b4707855f8f9f/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/5adf70700d7794246c8b4707855f8f9f/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/191f848bf45b1009875be339854f69bd/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/191f848bf45b1009875be339854f69bd/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/55b55c39cad2371780fec6579975d2a3/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/55b55c39cad2371780fec6579975d2a3/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/b1ebe17b875430c71775c18feb754897/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/b1ebe17b875430c71775c18feb754897/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.play:integrity:1.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/dc7ffe45b505e742b3148e5e35dd16ac/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/dc7ffe45b505e742b3148e5e35dd16ac/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/82bcd4701f8b30457751f1707d8f76c9/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/82bcd4701f8b30457751f1707d8f76c9/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/nguyenluan/.gradle/caches/transforms-3/f79a7fd01c38cf1b1279cc1c91872b9c/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/nguyenluan/.gradle/caches/transforms-3/f79a7fd01c38cf1b1279cc1c91872b9c/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/nguyenluan/.gradle/caches/transforms-3/1e17d7447656afc859b7c457b36baf6a/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/nguyenluan/.gradle/caches/transforms-3/1e17d7447656afc859b7c457b36baf6a/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/65f489f39be9f30f84f26d09d4dd1de9/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/65f489f39be9f30f84f26d09d4dd1de9/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/nguyenluan/.gradle/caches/transforms-3/2f961359fbc8d12dd9d3fdecabef46f3/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/nguyenluan/.gradle/caches/transforms-3/2f961359fbc8d12dd9d3fdecabef46f3/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/690cb1b77c69b4f5273c06b217dc732c/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/690cb1b77c69b4f5273c06b217dc732c/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nguyenluan/.gradle/caches/transforms-3/3610d873e455e2c85d9429322dbccb07/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nguyenluan/.gradle/caches/transforms-3/3610d873e455e2c85d9429322dbccb07/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/6cfd0230ec91b8e69931f55d2063d91b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/6cfd0230ec91b8e69931f55d2063d91b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/53199e6a7d09fed692a6590ac01adbd0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/53199e6a7d09fed692a6590ac01adbd0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/615b968fb245c5b7f9f7ca9511a721e5/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/615b968fb245c5b7f9f7ca9511a721e5/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/nguyenluan/.gradle/caches/transforms-3/2f961359fbc8d12dd9d3fdecabef46f3/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:11:7-39
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:11:7-39
+	tools:ignore
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:13:7-52
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:13:7-52
+	tools:targetApi
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:12:7-41
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:14:7-34
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:15:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.vina.farm.SplashActivity
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:16:4-27:18
+	android:screenOrientation
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:21:9-45
+	android:label
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:20:9-41
+	android:exported
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:22:9-32
+	android:theme
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:18:9-43
+	android:usesCleartextTraffic
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:19:9-44
+	android:name
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:17:9-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:23:9-26:25
+action#android.intent.action.MAIN
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:24:11-63
+	android:name
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:24:19-60
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:25:11-71
+	android:name
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:25:21-68
+activity#com.vina.farm.MainActivity
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:29:8-36:18
+	android:label
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:31:9-41
+	android:launchMode
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:33:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:34:9-48
+	android:exported
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:35:9-32
+	android:configChanges
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:32:9-86
+	android:name
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml:30:9-37
+uses-sdk
+INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/39e3d5c717cec2e2194a3ec6983938a6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/39e3d5c717cec2e2194a3ec6983938a6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/ef8f4c8924324b77413c3bc3dc35ea6f/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/ef8f4c8924324b77413c3bc3dc35ea6f/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/e661f9ddc88d7fc10a4f7521c815e56d/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/e661f9ddc88d7fc10a4f7521c815e56d/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-vector-icons] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-config] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-config/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:invertase_react-native-apple-authentication] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@invertase/react-native-apple-authentication/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:invertase_react-native-apple-authentication] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@invertase/react-native-apple-authentication/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-async-storage_async-storage] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-clipboard_clipboard] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-clipboard_clipboard] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-clipboard/clipboard/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_art] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/art/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_art] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/art/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/datetimepicker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_database] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_database] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-google-signin_google-signin] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-signin_google-signin] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-google-signin/google-signin/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/appcenter/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/appcenter/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter-analytics] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/appcenter-analytics/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter-analytics] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/appcenter-analytics/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter-crashes] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/appcenter-crashes/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:appcenter-crashes] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/appcenter-crashes/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:curved-bottom-navigation-bar] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/curved-bottom-navigation-bar/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:curved-bottom-navigation-bar] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/curved-bottom-navigation-bar/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lottie-react-native] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/lottie-react-native/src/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-code-push] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-code-push] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-curved-bottom-bar] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-curved-bottom-bar/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-curved-bottom-bar] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-curved-bottom-bar/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-device-info] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-device-info] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-device-info/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-fast-image/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-linear-gradient/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-push-notification] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-push-notification/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-splash-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-svg/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-video/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-video] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-video/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.70.0] /Users/nguyenluan/.gradle/caches/transforms-3/cd4599091403be9ddb2dcdfa1422894d/transformed/jetified-react-native-0.70.0-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.70.0] /Users/nguyenluan/.gradle/caches/transforms-3/cd4599091403be9ddb2dcdfa1422894d/transformed/jetified-react-native-0.70.0-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:5.1.1] /Users/nguyenluan/.gradle/caches/transforms-3/0f15b5ffd94ff124c110f31205fa2531/transformed/jetified-lottie-5.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:5.1.1] /Users/nguyenluan/.gradle/caches/transforms-3/0f15b5ffd94ff124c110f31205fa2531/transformed/jetified-lottie-5.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/nguyenluan/.gradle/caches/transforms-3/e7efdbf4238da1edc4c81a5e18cf6a13/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] /Users/nguyenluan/.gradle/caches/transforms-3/e7efdbf4238da1edc4c81a5e18cf6a13/transformed/jetified-ucrop-2.2.6-native/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/580095099fc7035f47baa15437a0b4aa/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/580095099fc7035f47baa15437a0b4aa/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.adityaxjha:Android-ScalableVideoView:10e7b4da8b] /Users/nguyenluan/.gradle/caches/transforms-3/aab7ac18e0ef74b66c772090bc2eed04/transformed/jetified-Android-ScalableVideoView-10e7b4da8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.adityaxjha:Android-ScalableVideoView:10e7b4da8b] /Users/nguyenluan/.gradle/caches/transforms-3/aab7ac18e0ef74b66c772090bc2eed04/transformed/jetified-Android-ScalableVideoView-10e7b4da8b/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/nguyenluan/.gradle/caches/transforms-3/1933b7022624eb0864540b38f21df36f/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/nguyenluan/.gradle/caches/transforms-3/1933b7022624eb0864540b38f21df36f/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/fb5d07295c0e2d788d44c43d8119d5d6/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/fb5d07295c0e2d788d44c43d8119d5d6/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/nguyenluan/.gradle/caches/transforms-3/294672f13995ff86ef9f557ba039fbc0/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] /Users/nguyenluan/.gradle/caches/transforms-3/294672f13995ff86ef9f557ba039fbc0/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-reanimated/android/build/.transforms/b9ddd3b55f66633c7298e7f8b3aa2a66/transformed/jetified-react-native-reanimated-70-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-reanimated/android/build/.transforms/b9ddd3b55f66633c7298e7f8b3aa2a66/transformed/jetified-react-native-reanimated-70-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/00e38e41b40c149633441261d8438851/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/00e38e41b40c149633441261d8438851/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/66636b8c906ba7f4e3b8f9557bc791d8/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/66636b8c906ba7f4e3b8f9557bc791d8/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/d3c2dedcbc3845e00af21c92488ede41/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/d3c2dedcbc3845e00af21c92488ede41/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/850796eda019cd9e139420c1363d9956/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/850796eda019cd9e139420c1363d9956/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/nguyenluan/.gradle/caches/transforms-3/9e420a68ba51ecfb3a174269575c9532/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/nguyenluan/.gradle/caches/transforms-3/9e420a68ba51ecfb3a174269575c9532/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/0f0c3316752fca1784bdae844c1cef7b/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/0f0c3316752fca1784bdae844c1cef7b/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/004aa149dd61c643fd45efc9e650849f/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/004aa149dd61c643fd45efc9e650849f/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/2a3743c37fef2eebcea479414b158efd/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/2a3743c37fef2eebcea479414b158efd/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/d8d71ce2981ea5dbbaf518afdb797b8c/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/d8d71ce2981ea5dbbaf518afdb797b8c/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/28cbb9056ee833fee4c49c065e7c4614/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/28cbb9056ee833fee4c49c065e7c4614/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/nguyenluan/.gradle/caches/transforms-3/0487d9e2f812d35585588eba4d6c89de/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/nguyenluan/.gradle/caches/transforms-3/0487d9e2f812d35585588eba4d6c89de/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/64c81814da8787530944b653f69f6637/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/64c81814da8787530944b653f69f6637/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/797828d5879c022adf2b3b5ad150bdc9/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/797828d5879c022adf2b3b5ad150bdc9/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/316165d75170bb2c782c32bbbb0bc62b/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/316165d75170bb2c782c32bbbb0bc62b/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/8b57f8d4dcc7c410c81c9e75f045ebc1/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/8b57f8d4dcc7c410c81c9e75f045ebc1/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/ae43c78f3ddccd2dfdf65b8379b6e931/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/ae43c78f3ddccd2dfdf65b8379b6e931/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/nguyenluan/.gradle/caches/transforms-3/9a86e9de09175bd84b207ff9294d03f3/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/nguyenluan/.gradle/caches/transforms-3/9a86e9de09175bd84b207ff9294d03f3/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/f9f22722f53f2e14c601cf7a4d2ae81b/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/f9f22722f53f2e14c601cf7a4d2ae81b/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/4a217aad8c7aec75a6a3fa553d08fdb6/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/4a217aad8c7aec75a6a3fa553d08fdb6/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/9e307d4642ca6464578e5e402580768f/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/9e307d4642ca6464578e5e402580768f/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/16e6ebc9a0a35e92424abbad9c8fd4ec/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/16e6ebc9a0a35e92424abbad9c8fd4ec/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/nguyenluan/.gradle/caches/transforms-3/450b48f83619049387d9881d9d2904f3/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/nguyenluan/.gradle/caches/transforms-3/450b48f83619049387d9881d9d2904f3/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/2c68a2c78a3cb8a6885ba282b4d0d11e/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/2c68a2c78a3cb8a6885ba282b4d0d11e/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/89617daf498aa542db0ab12e369ef623/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/89617daf498aa542db0ab12e369ef623/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/1277b7be7e320424768e154dde44bf26/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/1277b7be7e320424768e154dde44bf26/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/6decb84b45751d22c40722cb48b0398a/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/6decb84b45751d22c40722cb48b0398a/transformed/jetified-firebase-installations-interop-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/2857ce34c3c2f1e27b1a930d977f3411/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/2857ce34c3c2f1e27b1a930d977f3411/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/9f081f98b59daed9aa0007121529f97c/transformed/jetified-recaptcha-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/9f081f98b59daed9aa0007121529f97c/transformed/jetified-recaptcha-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/55d228e96d167572901498bac1d96814/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/55d228e96d167572901498bac1d96814/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/00b65bb2652eb7ff323c4fab71d9922e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/00b65bb2652eb7ff323c4fab71d9922e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/a2ee2e928c448857063645094173edb1/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/a2ee2e928c448857063645094173edb1/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/5adf70700d7794246c8b4707855f8f9f/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/5adf70700d7794246c8b4707855f8f9f/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/191f848bf45b1009875be339854f69bd/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/191f848bf45b1009875be339854f69bd/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/27cd6e4bd157419c3fa634810e55f2e5/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/27cd6e4bd157419c3fa634810e55f2e5/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/nguyenluan/.gradle/caches/transforms-3/22c902b7237f69801a42a15ed2710928/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /Users/nguyenluan/.gradle/caches/transforms-3/22c902b7237f69801a42a15ed2710928/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/55b55c39cad2371780fec6579975d2a3/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/55b55c39cad2371780fec6579975d2a3/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/4aa6df68c3053babe6677c4a9dabf8d3/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/4aa6df68c3053babe6677c4a9dabf8d3/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/b1ebe17b875430c71775c18feb754897/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/b1ebe17b875430c71775c18feb754897/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.play:integrity:1.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/dc7ffe45b505e742b3148e5e35dd16ac/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/dc7ffe45b505e742b3148e5e35dd16ac/transformed/jetified-integrity-1.0.1/AndroidManifest.xml:4:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/82bcd4701f8b30457751f1707d8f76c9/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/82bcd4701f8b30457751f1707d8f76c9/transformed/jetified-firebase-iid-interop-17.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/c8260579f43c88d427ab0aa40b32fd29/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/c8260579f43c88d427ab0aa40b32fd29/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/nguyenluan/.gradle/caches/transforms-3/f79a7fd01c38cf1b1279cc1c91872b9c/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/nguyenluan/.gradle/caches/transforms-3/f79a7fd01c38cf1b1279cc1c91872b9c/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/nguyenluan/.gradle/caches/transforms-3/1e17d7447656afc859b7c457b36baf6a/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/nguyenluan/.gradle/caches/transforms-3/1e17d7447656afc859b7c457b36baf6a/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/65f489f39be9f30f84f26d09d4dd1de9/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/65f489f39be9f30f84f26d09d4dd1de9/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/fa62eafa06c3cfb9bf313bfb8d6b1089/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/fa62eafa06c3cfb9bf313bfb8d6b1089/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nguyenluan/.gradle/caches/transforms-3/ecb9cd71442b56c5463c5d4041765035/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/nguyenluan/.gradle/caches/transforms-3/ecb9cd71442b56c5463c5d4041765035/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/nguyenluan/.gradle/caches/transforms-3/c7a98318e65eb8418beac10d5e1c23ca/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/nguyenluan/.gradle/caches/transforms-3/c7a98318e65eb8418beac10d5e1c23ca/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/a461f40d7a4bce840cfd79bc0175d75b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/a461f40d7a4bce840cfd79bc0175d75b/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/3b1c41758a23ca5d18c86085aae5b54a/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/3b1c41758a23ca5d18c86085aae5b54a/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/1b11b703135df691c30af53b1c2c7755/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/1b11b703135df691c30af53b1c2c7755/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/7129f80fc139d8fd370f65b513c12261/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/7129f80fc139d8fd370f65b513c12261/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/f4dbfa1b4a4ac398da214cc220b0169a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/f4dbfa1b4a4ac398da214cc220b0169a/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/4eabf5a85ff9631695b447772185134d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/4eabf5a85ff9631695b447772185134d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/0aa007f4ca42e40be100b3afd713177f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/0aa007f4ca42e40be100b3afd713177f/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/5e3446a4d6129ce58317da36e9a85ace/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/5e3446a4d6129ce58317da36e9a85ace/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/00c6828ff8af2a2fa42a95ceadbda35e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/00c6828ff8af2a2fa42a95ceadbda35e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/41701a0f49f13a5aa55e569e8bab3dc0/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/41701a0f49f13a5aa55e569e8bab3dc0/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/f20fac474cc54cad699c4a0cd29e97dc/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/f20fac474cc54cad699c4a0cd29e97dc/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/nguyenluan/.gradle/caches/transforms-3/2f961359fbc8d12dd9d3fdecabef46f3/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/nguyenluan/.gradle/caches/transforms-3/2f961359fbc8d12dd9d3fdecabef46f3/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/d94c89fe0efe5eaca620ec7375201738/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/d94c89fe0efe5eaca620ec7375201738/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nguyenluan/.gradle/caches/transforms-3/cada453f4ad21445c6e16d5f9be7fe16/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/nguyenluan/.gradle/caches/transforms-3/cada453f4ad21445c6e16d5f9be7fe16/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/3d5c50d5462f76db56bed0bacaed0f5a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/3d5c50d5462f76db56bed0bacaed0f5a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/nguyenluan/.gradle/caches/transforms-3/b1ee6b80bda7f5cf8c3e3092c2a22281/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/nguyenluan/.gradle/caches/transforms-3/b1ee6b80bda7f5cf8c3e3092c2a22281/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/690cb1b77c69b4f5273c06b217dc732c/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/690cb1b77c69b4f5273c06b217dc732c/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/b91347abd270fa92bb282d04c1f192d4/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/b91347abd270fa92bb282d04c1f192d4/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/ef87c97f76bf4ec3620bde62cd267062/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/ef87c97f76bf4ec3620bde62cd267062/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/6adf070b6b5746f3a795ded1369a846a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/6adf070b6b5746f3a795ded1369a846a/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nguyenluan/.gradle/caches/transforms-3/3610d873e455e2c85d9429322dbccb07/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nguyenluan/.gradle/caches/transforms-3/3610d873e455e2c85d9429322dbccb07/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/6cfd0230ec91b8e69931f55d2063d91b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/6cfd0230ec91b8e69931f55d2063d91b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/53199e6a7d09fed692a6590ac01adbd0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/53199e6a7d09fed692a6590ac01adbd0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/7ed2453f58d4cc698b91326877443e62/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/7ed2453f58d4cc698b91326877443e62/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/b37ff8c0b63dcbf0041ede354344c68e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/b37ff8c0b63dcbf0041ede354344c68e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nguyenluan/.gradle/caches/transforms-3/481bb5396ce435502bd5c3a7c571f50f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/nguyenluan/.gradle/caches/transforms-3/481bb5396ce435502bd5c3a7c571f50f/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/b14cf662a7bb0b9e7d577658cd882449/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/b14cf662a7bb0b9e7d577658cd882449/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/c2e340a9905bcb62127a1ba631499314/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/c2e340a9905bcb62127a1ba631499314/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/32d394bccc5de7abed4ea35f0f95365e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/32d394bccc5de7abed4ea35f0f95365e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/8ebba6892eff41959432c6a141c3a0ef/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/8ebba6892eff41959432c6a141c3a0ef/transformed/jetified-transport-api-3.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/8df146438582465706a7b287dc9217ee/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/8df146438582465706a7b287dc9217ee/transformed/jetified-firebase-encoders-json-18.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/d22a960c5995906ed300a5eac106d3d5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/d22a960c5995906ed300a5eac106d3d5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/a615a6957e7fe9b55bfa4cfc6a67050c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/a615a6957e7fe9b55bfa4cfc6a67050c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/1a22b47b1f1cb36191a4c60cd14a1027/transformed/jetified-appcenter-react-native-4.4.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter.reactnative:appcenter-react-native:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/1a22b47b1f1cb36191a4c60cd14a1027/transformed/jetified-appcenter-react-native-4.4.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/01e3133dd80948f05c9ad7f80f6f1192/transformed/jetified-appcenter-analytics-4.4.5/AndroidManifest.xml:9:5-11:41
+MERGED from [com.microsoft.appcenter:appcenter-analytics:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/01e3133dd80948f05c9ad7f80f6f1192/transformed/jetified-appcenter-analytics-4.4.5/AndroidManifest.xml:9:5-11:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/779fbba20a301194be3351a86370ea75/transformed/jetified-appcenter-crashes-4.4.5/AndroidManifest.xml:9:5-11:41
+MERGED from [com.microsoft.appcenter:appcenter-crashes:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/779fbba20a301194be3351a86370ea75/transformed/jetified-appcenter-crashes-4.4.5/AndroidManifest.xml:9:5-11:41
+MERGED from [com.microsoft.appcenter:appcenter:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/61dc333c6fbcdc2cff9a8d9f89ee6de8/transformed/jetified-appcenter-4.4.5/AndroidManifest.xml:9:5-11:41
+MERGED from [com.microsoft.appcenter:appcenter:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/61dc333c6fbcdc2cff9a8d9f89ee6de8/transformed/jetified-appcenter-4.4.5/AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/615b968fb245c5b7f9f7ca9511a721e5/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/615b968fb245c5b7f9f7ca9511a721e5/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/8689fb1e9dd286e390118494e15a4110/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/nguyenluan/.gradle/caches/transforms-3/8689fb1e9dd286e390118494e15a4110/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/2551000e5857a77affb5421e585bbb06/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/2551000e5857a77affb5421e585bbb06/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:23:9-61
+	android:targetSdkVersion
+		INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml:11:9-111
+MERGED from [:react-native-code-push] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-86
+MERGED from [:react-native-code-push] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-code-push/android/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-86
+	android:exported
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/nguyenluan/Documents/GitHub/ACB/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/39e3d5c717cec2e2194a3ec6983938a6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+MERGED from [:react-native-community_netinfo] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+MERGED from [:react-native-community_netinfo] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/nguyenluan/.gradle/caches/transforms-3/39e3d5c717cec2e2194a3ec6983938a6/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_auth] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_auth] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_database] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_database] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/c8260579f43c88d427ab0aa40b32fd29/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/c8260579f43c88d427ab0aa40b32fd29/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.microsoft.appcenter:appcenter:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/61dc333c6fbcdc2cff9a8d9f89ee6de8/transformed/jetified-appcenter-4.4.5/AndroidManifest.xml:14:5-79
+MERGED from [com.microsoft.appcenter:appcenter:4.4.5] /Users/nguyenluan/.gradle/caches/transforms-3/61dc333c6fbcdc2cff9a8d9f89ee6de8/transformed/jetified-appcenter-4.4.5/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_auth] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_database] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_database] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/database/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:26:5-68
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/c8260579f43c88d427ab0aa40b32fd29/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/c8260579f43c88d427ab0aa40b32fd29/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [:react-native-firebase_auth] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/auth/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-103
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-95
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-78
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:25-75
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:38:13-89
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/messaging/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:41:13-84
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/nguyenluan/.gradle/caches/transforms-3/450b48f83619049387d9881d9d2904f3/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/nguyenluan/.gradle/caches/transforms-3/450b48f83619049387d9881d9d2904f3/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	tools:targetApi
+		ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-29:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-88
+queries
+ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-13:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-12:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:21-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:22-78
+provider#com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider
+ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:9-26:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-94
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-25:78
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-75
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:9-30:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:30:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-image-crop-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-60
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/nguyenluan/Documents/GitHub/ACB/node_modules/react-native-webview/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-83
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/16e6ebc9a0a35e92424abbad9c8fd4ec/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/16e6ebc9a0a35e92424abbad9c8fd4ec/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] /Users/nguyenluan/.gradle/caches/transforms-3/16e6ebc9a0a35e92424abbad9c8fd4ec/transformed/jetified-okhttp3-integration-4.12.0/AndroidManifest.xml:12:13-84
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:25:22-74
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/191f848bf45b1009875be339854f69bd/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/191f848bf45b1009875be339854f69bd/transformed/jetified-play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/c8260579f43c88d427ab0aa40b32fd29/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/c8260579f43c88d427ab0aa40b32fd29/transformed/jetified-play-services-cloud-messaging-17.0.1/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:32:13-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:45:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/95a7600016195b3a1bfea1053dd0b696/transformed/jetified-firebase-messaging-23.1.2/AndroidManifest.xml:56:17-119
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/nguyenluan/.gradle/caches/transforms-3/450b48f83619049387d9881d9d2904f3/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/nguyenluan/.gradle/caches/transforms-3/450b48f83619049387d9881d9d2904f3/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] /Users/nguyenluan/.gradle/caches/transforms-3/450b48f83619049387d9881d9d2904f3/transformed/jetified-firebase-datatransport-18.1.7/AndroidManifest.xml:28:17-115
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/04d736735d7c983fd10b8404a1fc0776/transformed/jetified-transport-backend-cct-3.1.8/AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] /Users/nguyenluan/.gradle/caches/transforms-3/3a5d535424f25d9413c847b3ea81b940/transformed/jetified-transport-runtime-3.1.8/AndroidManifest.xml:33:13-132
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.2.0] /Users/nguyenluan/.gradle/caches/transforms-3/4dd8f34c02a9fd2276c5f7f6c0372e21/transformed/jetified-firebase-auth-21.2.0/AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/99bef602e8342be9a76dc747c72bd14b/transformed/jetified-firebase-database-20.1.0/AndroidManifest.xml:32:17-109
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.3] /Users/nguyenluan/.gradle/caches/transforms-3/753d0c85f4fc937af3e246fc9e3ae705/transformed/jetified-firebase-installations-17.1.3/AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /Users/nguyenluan/.gradle/caches/transforms-3/610304631718d7d4e85eef42119d0ba2/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:26:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.3.0] /Users/nguyenluan/.gradle/caches/transforms-3/8c2122b97402ab9fabe3fc1ffd17fdf8/transformed/jetified-play-services-auth-20.3.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/b1ebe17b875430c71775c18feb754897/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/b1ebe17b875430c71775c18feb754897/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/b1ebe17b875430c71775c18feb754897/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/nguyenluan/.gradle/caches/transforms-3/b1ebe17b875430c71775c18feb754897/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/65f489f39be9f30f84f26d09d4dd1de9/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/65f489f39be9f30f84f26d09d4dd1de9/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/nguyenluan/.gradle/caches/transforms-3/65f489f39be9f30f84f26d09d4dd1de9/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/6cfd0230ec91b8e69931f55d2063d91b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/6cfd0230ec91b8e69931f55d2063d91b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/53199e6a7d09fed692a6590ac01adbd0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/53199e6a7d09fed692a6590ac01adbd0/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/nguyenluan/.gradle/caches/transforms-3/08c37f8fd6dc79c697b8395c73734047/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/6cfd0230ec91b8e69931f55d2063d91b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/6cfd0230ec91b8e69931f55d2063d91b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/nguyenluan/.gradle/caches/transforms-3/6cfd0230ec91b8e69931f55d2063d91b/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/615b968fb245c5b7f9f7ca9511a721e5/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/nguyenluan/.gradle/caches/transforms-3/615b968fb245c5b7f9f7ca9511a721e5/transformed/jetified-installreferrer-1.1.2/AndroidManifest.xml:9:22-107
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/nguyenluan/.gradle/caches/transforms-3/37bc31ecf8315ece4b9605680c6b7aa4/transformed/jetified-ShortcutBadger-1.1.22/AndroidManifest.xml:50:22-86

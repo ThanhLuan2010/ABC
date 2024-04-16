@@ -1,0 +1,6 @@
+module Pods_VinaFarm {
+  umbrella header "Pods-VinaFarm-umbrella.h"
+
+  export *
+  module * { export * }
+}
